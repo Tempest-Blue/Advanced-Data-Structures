@@ -1,0 +1,4 @@
+*.o
+uncompress
+compress
+*.swp

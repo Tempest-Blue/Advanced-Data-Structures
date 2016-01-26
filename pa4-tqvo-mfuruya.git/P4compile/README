@@ -1,0 +1,13 @@
+These files  enable to you to build the app when you are getting started.
+
+1. Copy all of these files into your local folder
+2. Run "make" to get an executable object called bogtest
+3. Run "./bogtest" will give you the testing results.
+4. Modify the files until you can pass the test.
+5. Design your own testcases and then modify bogtest.cpp to test your codes.
+
+After you have completed the above 5 steps, you can consider the GUI.
+The GUI is there for you to confirm that your code works correctly.
+
+
+Written by Hongpeng Wang.

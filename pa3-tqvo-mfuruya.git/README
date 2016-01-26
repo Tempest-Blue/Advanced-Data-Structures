@@ -1,0 +1,12 @@
+Checkpoint Submission: Due Fri May 9, 2014 @ 8:00 PM
+Final Submission: Due Thursday May 15, 2014 @ 11:59 PM
+
+Please read the Assignment Page carefully before starting.
+
+Important Note:
+Because you are not required to implement or use BitInputStream and BitOutputStream for the checkpoint, you will either need to remove all
+references to them from the provided files (by commenting them out) and edit the Makefile, or create "dummy" versions of these classes
+(with both header and implementation files) to get the code to compile.
+
+
+Test modification.
